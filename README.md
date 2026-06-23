@@ -1,7 +1,6 @@
-# 👋 Hi there, I'm Hyuna
+# 👋 안녕하세요, 장현아입니다.
 
-> Planning Better Experiences, Designing Better Services
-
+사용자의 경험을 설계하고 더 나은 서비스를 기획합니다.
 ---
 
 ## 👩🏻‍💻 학력
