@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi there, I'm Hyuna
 
-<!--
-**0801ha02/0801ha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 학력
+소프트웨어전공 (Software Engineering)
 
-Here are some ideas to get you started:
+🎯 희망 직무
+웹기획
+서비스기획
+앱기획
+콘텐츠기획
+UI·UX 기획
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🪪 자격증
+취득일	자격증
+2026.03	정보기술자격(ITQ) 한글엑셀(한셀) A등급
+2025.12	정보처리기사
+2025.03	정보기술자격(ITQ) 아래한글 A등급
+2025.03	정보기술자격(ITQ) 한글파워포인트(한쇼) A등급
+2024.02	SNS마케팅전문가 1급
